@@ -1,0 +1,12 @@
+[submodule "app/peatio"]
+	path = app/peatio
+	url = https://github.com/yuknak/peatio.git
+	branch = 1-9-stable
+[submodule "app/barong"]
+	path = app/barong
+	url = https://github.com/yuknak/barong.git
+	branch = 1-9-stable
+[submodule "app/peatio-trading-ui"]
+	path = app/peatio-trading-ui
+	url = https://github.com/yuknak/peatio-trading-ui.git
+	branch = 1-9-stable
